@@ -92,7 +92,7 @@ html, body {
   transform: translateY(-50%) scaleX(1);
 }
 
- /*---- Top Right Logos ----*/
+ /*---- Bottom Left Logos ----*/
 .logo-image {
   position: fixed;
   bottom: 200px;
@@ -261,7 +261,7 @@ html, body {
 }
 
 .project-entry img { 
-  width: 300px;
+  width: 200px;
   margin-top: 25px;
 }
 
